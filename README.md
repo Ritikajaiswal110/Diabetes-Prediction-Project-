@@ -1,1 +1,2 @@
 # Diabetes-Prediction-Project-
+This project predicts diabetes using machine learning techniques on the Pima Indians Diabetes dataset. Data preprocessing, visualization, and model training were performed using Logistic Regression and Random Forest algorithms. The Random Forest model achieved higher accuracy, identifying key factors such as glucose, BMI, and age as major contributors to diabetes prediction.
